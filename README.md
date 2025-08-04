@@ -1,2 +1,2 @@
 # first_random_project
-test
+Наш первый commit
